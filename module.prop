@@ -1,0 +1,6 @@
+id=frigate_tailscale
+name=Frigate Auto-Tailscale
+version=v1.0
+versionCode=1
+author=trydent
+description=Connects Tailscale when the Frigate web app opens and disconnects it shortly after you leave.
